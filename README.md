@@ -1,7 +1,7 @@
 Hi 👋 My name is Oscar Koeroo
 =============================  
 
-Departemental CISO, Developer, Homelab-er 
+CISO, Developer, Homelab-er 
 ---------------------------  
 
 I started with Basic (1990-ish), Visual Basic (1995-ish), Bash (1998), moved to C and SQL (2000), now I use Python (2010-ish) mostly as an easier/quicker results to tools and applications.
