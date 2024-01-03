@@ -1,15 +1,15 @@
 Hi 👋 My name is Oscar Koeroo
 =============================  
 
-CISO, Developer, Homelab-er 
+Departemental CISO, Developer, Homelab-er 
 ---------------------------  
 
-I started with Visual Basic, moved to C, now I use Python as an easier/quicker results to tools and applications.  
+I started with Basic (1990-ish), Visual Basic (1995-ish), Bash (1998), moved to C and SQL (2000), now I use Python (2010-ish) mostly as an easier/quicker results to tools and applications.
 
 * 🌍  I'm based in The Hague-area 
-* ✉️  You can contact me at [okoeroo \*@\* gmail.com](mailto:okoeroo *@* gmail.com) 
+* ✉️  You can contact me at on e-mail, signal, whatsapp, discord, twitter, linkedin, etc. 
 * 🚀  I'm currently working on [netbox-tools-3](http://github.com/okoeroo/netbox-tools-3) 
-* 🧠  I'm learning various Python frameworks 
+* 🧠  I'm learning various networking, Python frameworks, Ansible and other infrastructure stuff.
 * 🤝  I'm open to collaborating on Netbox integrations or cUrl
 
 <a href="https://www.x.com/okoeroo" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/okoeroo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
